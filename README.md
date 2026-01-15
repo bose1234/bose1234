@@ -1,14 +1,19 @@
 # Hello, I'm Bose
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+[Brief Introduction
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 ## Objective
 [Provide Objective]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Entry-Level SOC Analyst with strong hands-on experience in security operations, network security, malware analysis, and vulnerability assessment. with a solid foundation in security principles, risk management, and incident response.
 
+Skilled in network traffic analysis using Wireshark, vulnerability scanning with Nessus and OpenVAS, and network reconnaissance using Nmap. Experienced with Active Directory fundamentals, DNS enumeration, malware analysis (VirusTotal), and web application security testing using Burp Suite and OWASP ZAP.
+
+Actively developing SOC-ready skills through structured labs, real-world simulations, and TryHackMe, with a strong interest in alert triage, threat detection, and security monitoring. Seeking an entry-level SOC or cybersecurity analyst role where I can contribute to investigations, monitoring, and continuous security improvement.
+
+Passionate, growth-driven, and committed to continuous learning. Open to collaboration, mentorship, and opportunities to add value to security-focused teams.
 
 ##Skills
 [Provide skills and associated project.]
